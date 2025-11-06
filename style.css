@@ -426,6 +426,8 @@ footer {
 }
 
 .cert-card {
+  max-width: 600px;
+  max-height: 500px;
   background: var(--surface);
   border-radius: 20px;
   padding: 30px;
@@ -514,6 +516,11 @@ footer {
   background: var(--bg-dark);
   min-height: 100vh;
   color: var(--surface);
+}
+.commingsoon{
+  text-align:center;
+  font-size:30px;
+  font-weight: 500;
 }
 
 .projects-grid {
